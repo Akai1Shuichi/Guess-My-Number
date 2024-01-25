@@ -1,5 +1,6 @@
 'use strict';
 
+console.log('New game');
 /*
 console.log(document.querySelector('.message').textContent);
 
